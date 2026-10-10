@@ -11,6 +11,9 @@ This repository documents the engineering journey of training a 2-joint robotic 
 
 ---
 
+<img width="1145" height="785" alt="Screenshot 2" src="https://github.com/user-attachments/assets/55ac9130-84c5-4090-b331-87660ef14299" />
+
+
 ## 🛤️ The Journey (Project Phases)
 
 This project was built to deeply understand deterministic policies and negative reward shaping in Reinforcement Learning:
@@ -83,3 +86,8 @@ To run the project (which includes building, training, and testing the TD3 model
 ```bash
 python train_td3_reacher.py
 ```
+
+## 👨‍💻 Author
+**Mohammed Arif Mahyoub Haider**
+
+*Electrical Engineer - Computer and Industrial Control*
